@@ -1,0 +1,19 @@
+{
+  "name": "vue-xuni-diff",
+  "version": "1.0.0",
+  "description": "this is about xuni and diff of vue",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack-dev-server --open"
+  },
+  "author": "sitao",
+  "license": "ISC",
+  "devDependencies": {
+    "snabbdom": "^2.1.0"
+  },
+  "dependencies": {
+    "webpack": "^5.11.1",
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.1"
+  }
+}
